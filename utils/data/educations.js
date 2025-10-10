@@ -1,20 +1,21 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Master  Degree",
+    duration: "2023 - 2025",
+    institution: "Iowa State University",
   },
-  {
+   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Bachelor Degree",
+    duration: "2016 - 2020",
+    institution: "Gmr Institute of Technology",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
-  }
+    title: "Higher Secondary Education",
+    duration: "2018 - 2020",
+    institution: "Sri Chaitanya junior college ",
+  },
+
 ]
