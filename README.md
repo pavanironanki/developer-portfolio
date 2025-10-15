@@ -22,7 +22,7 @@ Designed for developers and freelancers who want to showcase their projects, exp
 ### 🔗 [Live Preview](https://pavanironanki.netlify.app/)
 
 ---
-
+ 
 ## 📚 Table of Contents
 
 - [Sections](#sections)
