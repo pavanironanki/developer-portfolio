@@ -7,10 +7,7 @@ export const personalData = {
   phone: '+5159163519',
   address: 'Ames, Iowa, United States ',
   github: 'https://github.com/pavanironanki',
- // facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/pavani-ronanki-7229b4214/',
-  //twitter: 'https://twitter.com/said7388',
- // stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/pavanironanki/",
   devUsername: "pavani.ronanki",
   resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
