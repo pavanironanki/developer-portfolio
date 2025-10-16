@@ -1,13 +1,15 @@
 export const projectsData = [
+  
     {
         id: 1,
-        name: 'Landing Online Shopping',
-        description: "A simple React.js-based shopping website featuring a clean and responsive design. This project demonstrates the fundamental structure of an e-commerce site with modern UI/UX principles. Built with React.js to showcase component-based architecture and responsive design patterns for online shopping platforms.",
-        tools: ['React.js', 'JavaScript', 'HTML', 'CSS'],
-        role: 'Fullstack Devloper',
+        name: 'C2Rust Code Transformation',      
+        description: 'A research project focused on automating the transformation of C programs into idiomatic, memory-safe Rust using genetic improvement techniques. Contributed to optimizing the accuracy of code translation, improving memory safety, and enhancing runtime performance. The project aims to generate high-quality Rust code with minimal manual intervention.',
+        tools: ['C', 'Rust', 'Python', 'Genetic Algorithms', 'XML'],
+        role: 'Research Contributor',
         code: '',
         demo: '',
     },
+
     {
         id: 2,
         name: 'Healthcare Dashboard',
