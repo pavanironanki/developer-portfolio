@@ -5,6 +5,7 @@
 ---
 
 # [My Developer Portfolio](https://github.com/pavanironanki/developer-portfolio)
+![Profile views](https://komarev.com/ghpvc/?username=pavanironanki&color=blue)
 
 ---
 
