@@ -10,12 +10,6 @@ export const educations = [
     title: "Bachelor Degree",
     duration: "2016 - 2020",
     institution: "Gmr Institute of Technology",
-  },
-  {
-    id: 3,
-    title: "Higher Secondary Education",
-    duration: "2018 - 2020",
-    institution: "Sri Chaitanya junior college ",
-  },
+  }
 
 ]
