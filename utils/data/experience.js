@@ -2,8 +2,8 @@ export const experiences = [
   {
     id: 1,
     title: 'Software Engineer',
-    company: "Pearson",
-    description:" Responsibities : At Pearson, I developed automated grading and assessment platforms using Node.js, Java, and GraphQL. I built secure, scalable microservices, integrating AI-powered feedback with OpenAI GPT, and used Kafka for high-volume code evaluation workflows. I enhanced platform reliability through TDD with Mockito, Docker-based execution, and cloud deployment on AWS, supporting 10K+ concurrent learners.",
+    company: "Iowa State University",
+    description:" Responsibities : At Iowa State University, I developed automated grading and assessment platforms using Node.js, Java, and GraphQL. I built secure, scalable microservices, integrating AI-powered feedback with OpenAI GPT, and used Kafka for high-volume code evaluation workflows. I enhanced platform reliability through TDD with Mockito, Docker-based execution, and cloud deployment on AWS, supporting 10K+ concurrent learners.",
     duration: "(May 2024 - Present)"
   },
   {
