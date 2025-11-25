@@ -1,16 +1,7 @@
 export const projectsData = [
   
    
-    // {
-    //     id: 1,
-    //     name: 'Healthcare Dashboard',
-    //     description: "A React.js project where I fetch patient data from an API and display it in a clean, responsive healthcare dashboard. The dashboard shows the patient's profile, diagnosis history chart, vital signs, and medical records. Features include real-time data fetching, interactive charts, and a user-friendly interface designed for healthcare professionals.",
-    //     tools: ['React.js', 'JavaScript', 'REST API', 'Chart.js', 'CSS'],
-    //     role: 'Frontend Developer',
-    //     code: '',
-    //     demo: '',
-    // },
-    
+
    {
     id: 1,
     name: 'AI-Powered Data Analysis Platform ',
